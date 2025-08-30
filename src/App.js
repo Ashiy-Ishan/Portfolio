@@ -21,14 +21,14 @@ const portfolioConfig = {
   },
   // UPDATED: Added a 'color' property to each skill for its icon
   skills: [
-    { name: "React", icon: "devicon-react-original", level: 90, color: "#61DAFB" },
-    { name: "Java", icon: "devicon-java-plain", level: 75, color: "#f89820" },
-    { name: "Python", icon: "devicon-python-plain", level: 70, color: "#3776AB" },
-    { name: "HTML5", icon: "devicon-html5-plain", level: 95, color: "#E34F26" },
-    { name: "CSS3", icon: "devicon-css3-plain", level: 95, color: "#1572B6" },
-    { name: "JavaScript", icon: "devicon-javascript-plain", level: 85, color: "#F7DF1E" },
-    { name: "Figma", icon: "devicon-figma-plain", level: 95, color: "#F24E1E" },
-    { name: "Arduino", icon: "devicon-arduino-plain", level: 65, color: "#00979D" },
+    { name: "React", icon: "devicon-react-original", level: 10, color: "#61DAFB" },
+    { name: "Java", icon: "devicon-java-plain", level: 25, color: "#f89820" },
+    { name: "Python", icon: "devicon-python-plain", level: 20, color: "#3776AB" },
+    { name: "HTML5", icon: "devicon-html5-plain", level: 45, color: "#E34F26" },
+    { name: "CSS3", icon: "devicon-css3-plain", level: 35, color: "#1572B6" },
+    { name: "JavaScript", icon: "devicon-javascript-plain", level: 10, color: "#F7DF1E" },
+    { name: "Figma", icon: "devicon-figma-plain", level: 50, color: "#F24E1E" },
+    { name: "Arduino", icon: "devicon-arduino-plain", level: 40, color: "#00979D" },
   ],
   projects: [
     { title: "Java Maths", description: "This Java program is an interactive math quiz that runs in the command line, generating random arithmetic problems based on the user's chosen difficulty. It then checks the user's answers, provides immediate feedback, and displays the final score at the end of the quiz.", githubLink: "https://github.com/Ashiy-Ishan/Java_mini-Project.git" },
