@@ -22,7 +22,7 @@ const portfolioConfig = {
   about: "I'm a passionate undergraduate at Sabaragamuwa University, deeply interested in web development, design, and gaming. I love building clean, user-friendly interfaces and solving problems with code.",
   dynamicRoles: ["a Coder", "a Gamer", "a Designer", "an Enthusiast"],
   contact: {
-    gmail: "ashingshanac@gmail.com",
+    gmail: "ashinshanaishan.uni@gmail.com",
     whatsapp: "94759428249",
     github: "https://github.com/Ashiy-Ishan",
     linkedin: "https://www.linkedin.com/in/ashinshana-ishan-73b228318",
