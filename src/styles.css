@@ -1,6 +1,7 @@
 /* styles.css */
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
 @import url('https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css');
+@import url('https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css');
 
 /* UPDATED: Added Light and Dark theme variables */
 :root {
@@ -599,4 +600,5 @@ body {
     .form-group input {
         margin-bottom: 1rem;
     }
+
 }
