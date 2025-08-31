@@ -38,6 +38,7 @@ const portfolioConfig = {
     { name: "Figma", icon: "devicon-figma-plain", level: 40 },
     { name: "Photoshop", icon: "devicon-photoshop-plain", level: 30 },
     { name: "Premiere Pro", icon: "devicon-premierepro-plain", level: 50 },
+    { name: "Ballerina", icon: "devicon-ballerina-plain", level: 5 },
   ],
   projects: [
     {
